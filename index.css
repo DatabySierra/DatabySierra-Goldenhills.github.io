@@ -1,6 +1,6 @@
 #dreamhome{
     font-family: Helvetica;
-    font-size: max(65px);
+   font-size: min(max(16px, 4vw), 22px);
     font-weight: bold;
     color: rgb(196, 141, 2);
     text-align: center;
