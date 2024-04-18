@@ -66,8 +66,8 @@ h2{
 #homefront{
     border: 5px outset rgb(199, 226, 235);
     border-radius: 10px;
-    max-width: 600px;
-    overflow: auto;
+    max-width: 500px;
+    overflow: scroll;
 }
 
 #image1{
