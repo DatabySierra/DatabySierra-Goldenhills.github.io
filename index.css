@@ -6,7 +6,7 @@
     top: 15%;
     left: 28%;
     text-shadow: 2px 2px 5px whitesmoke;
-    font-size: 8vw;
+    font-size: 65px;
 }
 
 #heroimage{
@@ -66,7 +66,7 @@ h2{
 #homefront{
     border: 5px outset rgb(199, 226, 235);
     border-radius: 10px;
-    max-width: 350px;
+    max-width: 600px;
     overflow: auto;
 }
 
